@@ -21,8 +21,8 @@ To address these limitations, our project combines video and audio data to analy
 
 ### Emotion Classification
 - **Feature Extraction:** Extracts relevant features from both audio and video inputs.
-<img width="370" alt="Screenshot 2024-05-22 at 2 18 05 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/2c6e1f18-e4f5-4cf5-b695-1e0dd68fb2a4">
-<img width="370" alt="Screenshot 2024-05-22 at 2 18 22 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/cb7c720f-ba39-495d-8e8e-c3373eee88ec">
+<img width="270" height="500" alt="Screenshot 2024-05-22 at 2 18 05 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/2c6e1f18-e4f5-4cf5-b695-1e0dd68fb2a4">
+<img width="270" height="500" alt="Screenshot 2024-05-22 at 2 18 22 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/cb7c720f-ba39-495d-8e8e-c3373eee88ec">
 
 - **Fusion Approach:** Integrates visual and auditory cues to enhance prediction accuracy.
 <img width="539" alt="Screenshot 2024-05-22 at 2 13 55 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/fb50840d-0a0b-409e-a1cd-a3e12d5693ec">
@@ -46,14 +46,14 @@ Following heatmap generation, we analyzed the results across all emotion classes
 <img width="524" alt="Screenshot 2024-05-22 at 2 30 32 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/fd8f65aa-699b-406d-add8-ff17c61d80ec">
 
 - **Explainability: LIME** 
-<img width="917" alt="Screenshot 2024-05-22 at 2 22 35 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/92d13e1b-87f2-4261-a2cc-c7ee03d6a5b4">
-<img width="917" alt="Screenshot 2024-05-22 at 2 23 25 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/8cbc6b58-776a-43d9-a693-fe81b8b5684f">
-<img width="917" alt="Screenshot 2024-05-22 at 2 23 39 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/010b51ed-11f9-4cf1-8403-b827f9cfa017">
-<img width="917" alt="Screenshot 2024-05-22 at 2 23 53 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/f412c185-376f-4781-9b6c-a22bf516bda3">
+<img width="600" alt="Screenshot 2024-05-22 at 2 22 35 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/92d13e1b-87f2-4261-a2cc-c7ee03d6a5b4">
+<img width="600" alt="Screenshot 2024-05-22 at 2 23 25 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/8cbc6b58-776a-43d9-a693-fe81b8b5684f">
+<img width="600" alt="Screenshot 2024-05-22 at 2 23 39 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/010b51ed-11f9-4cf1-8403-b827f9cfa017">
+<img width="600" alt="Screenshot 2024-05-22 at 2 23 53 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/f412c185-376f-4781-9b6c-a22bf516bda3">
 
 In the emotion classification process, certain emotions exhibit distinct patterns in their spectrograms, aiding in their identification. Moreover, misclassifications may also arise when emotions display overlapping spectrogram features. All the inferences that we observed for each emotion are summarised in table.
 
-<img width="550" alt="Screenshot 2024-05-22 at 2 33 21 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/4df213ad-d6fb-4cd3-adbf-9ef785b93bd5">
+<img width="500" alt="Screenshot 2024-05-22 at 2 33 21 PM" src="https://github.com/swetha6116/Multimodal-emotion-analysis/assets/89096691/4df213ad-d6fb-4cd3-adbf-9ef785b93bd5">
 
 
 ## Applications in Psychotherapy
